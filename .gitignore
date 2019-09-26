@@ -1,0 +1,26 @@
+### Drafts ###
+*.odt
+*.odg
+
+### Python ###
+*.pyc
+__pycache__/
+
+### C/C++ ###
+*.so
+
+### Distribution / Packaging ###
+.Python
+build/
+*.build
+*.dist
+
+### Environments ###
+env/
+
+### Temporary Files ###
+.~lock*
+*.tmp
+
+### Local Data ###
+local_data/
